@@ -1,0 +1,23 @@
+.wrap{
+	width: 500px;
+	margin: auto;
+}
+.header{
+	height: 150px;
+	background: red;
+	position: relative;
+}
+.header h1{
+	position: absolute;
+	top:20px;
+	left:20px;
+	width: 308px;
+	height: 69px;
+}
+.header a{
+	width: 308px;
+	height: 69px;
+	display: block;
+	text-indent:-9999px;
+	background: url(../images/logo.png) left top;
+}
